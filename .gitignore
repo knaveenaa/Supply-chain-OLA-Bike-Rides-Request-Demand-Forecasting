@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.csv
+*.zip
+*.log
+.DS_Store
+**/lib.rar

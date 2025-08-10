@@ -18,6 +18,7 @@ This project provides a scalable, production-ready pipeline for forecasting ride
 
 ## Directory Structure
 - `Ipython_Notebooks/` — Jupyter notebooks for data cleaning, analysis, feature engineering, model training, and prediction.
+- `AWS/` - This module helps to run and test in the cloud services here AWS sagemaker is used.
 - `modular_code/` — Modular Python code for ETL, feature engineering, model training, and inference.
 - `data/` — Sample and intermediate datasets (for local use).
 - `venv/` — Python virtual environment for dependency management.
